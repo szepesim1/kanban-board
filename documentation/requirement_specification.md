@@ -3,7 +3,7 @@ Kandban Board Requirement Specification
 
 1. The goal of the Project
 
-    The goal is to create an agile project management tool similar to Atlassian's Trello to help visualize the work flow. The application utilizes a Kanban Board style user interface with tickets and columns. The user can create new columns for each stage of the workflow and new tickets for each task. The tickets are dragable between the columns and can be asigned to other users.
+    The goal is to create an agile project management tool similar to Atlassian's Trello to help visualize the work flow. The application utilizes a Kanban Board style user interface with tickets and columns. The user can create new columns for each stage of the workflow and new tickets for each task. The tickets are dragable between the columns and can be assigned to other users.
 
 2. Milestones
 
